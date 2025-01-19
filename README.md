@@ -13,7 +13,7 @@ This program runs on Java SDK openjdk-22 and includes the following libraries an
 
 ## Usage 
 
-To use the credit card validator application simply clone the repository and upload the file to either VS Code or IntelliJ. In this case, IntelliJ was used to program this application. Once the file is uploaded to an IntelliJ terminal, they may begin the program by clicking on the green arrow symbol within the upper-right portion of the page. 
+To use the housing selection application simply clone the repository and upload the file to either VS Code or IntelliJ. In this case, IntelliJ was used to program this application. Once the file is uploaded to an IntelliJ terminal, they may begin the program by clicking on the green arrow symbol within the upper-right portion of the page. 
 
 
 <img width="1279" alt="Screenshot 2025-01-19 at 1 16 51 PM" src="https://github.com/user-attachments/assets/3bc03beb-09e4-4e32-9156-15c2492daf93" />
