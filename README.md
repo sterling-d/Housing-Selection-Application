@@ -18,7 +18,9 @@ To use the credit card validator application simply clone the repository and upl
 
 <img width="1279" alt="Screenshot 2025-01-19 at 1 16 51 PM" src="https://github.com/user-attachments/assets/3bc03beb-09e4-4e32-9156-15c2492daf93" />
 
+
 After clicking on the green arrow, the user will be prompted to begin the program at the bottom of the page: 
+
 
 <img width="1329" alt="Screenshot 2025-01-19 at 1 13 31 PM" src="https://github.com/user-attachments/assets/010b8a15-c0dd-4153-b77d-9c49b399b207" />
 
